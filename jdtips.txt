@@ -1,0 +1,4 @@
+
+Have a plan for the branching and version you are working with. Be
+consistent in the way you are doing.
+
